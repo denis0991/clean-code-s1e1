@@ -147,7 +147,7 @@ body {
 /* Completed */
 .section-completed__wrapper .label {
   text-decoration: line-through;
-    color: #888;
+  color: #888;
 }
 
 /* Edit Task */
